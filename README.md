@@ -1,1 +1,1 @@
-# MostlyDotNet
+# Solutions for some of the problems from the Telerik Academy C# Advanced course
